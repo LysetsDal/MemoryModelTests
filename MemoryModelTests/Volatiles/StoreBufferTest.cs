@@ -81,6 +81,7 @@ public class StoreBufferTest
         Assert.False(reorderCount == 0, $"Detected ${reorderCount} reorderings");
         
     }    
+    
     [Fact]
     public void StoreBuffer_WithMemoryBarrier()
     {
