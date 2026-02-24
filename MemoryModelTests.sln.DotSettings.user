@@ -1,9 +1,18 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
-	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=48cd48b9_002D8549_002D42c1_002D9363_002D76ddcf5feeb0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_VolatileRead_Prevents_Subsequent_Load_From_Hoisting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=48cd48b9_002D8549_002D42c1_002D9363_002D76ddcf5feeb0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Test_VolatileRead_Prevents_Subsequent_Load_From_Hoisting" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::B78F363E-C89A-42F3-A33F-5FF52FB1374A::net8.0::MemoryModelTests.Volatiles.AcquireSemantics.Test_VolatileRead_Prevents_Subsequent_Load_From_Hoisting&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::B78F363E-C89A-42F3-A33F-5FF52FB1374A::net8.0::MemoryModelTests.Volatiles.AcquireSemantics.Test_VolatileRead_Prevents_Subsequent_Store_Hoisting&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::B78F363E-C89A-42F3-A33F-5FF52FB1374A::net8.0::MemoryModelTests.Volatiles.ReleaseSemantics.Test_VolatileWrite_Prevents_Previous_Store_From_Hoisting_Down&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::B78F363E-C89A-42F3-A33F-5FF52FB1374A::net8.0::MemoryModelTests.Readonly.ReadonlyImmutable.Test_Readonly_Publication_Safety&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B78F363E-C89A-42F3-A33F-5FF52FB1374A::net8.0::MemoryModelTests.Readonly.ReadonlyImmutable.Test_Readonly_StoreLoad_Publication_Safety&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
-&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=acba679c_002D3814_002D4b96_002Db361_002D43f07b12f02e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test_Readonly_Store_Load_Semantics" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B78F363E-C89A-42F3-A33F-5FF52FB1374A::net8.0::MemoryModelTests.Readonly.ReadonlyImmutable.Test_Readonly_Store_Load_Semantics&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	</wpf:ResourceDictionary>
