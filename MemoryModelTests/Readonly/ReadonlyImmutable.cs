@@ -100,6 +100,7 @@ public class ReadonlyImmutable()
     private class HelperObject
     {
         private int _data;
+        // private readonly int _data;
             
         public HelperObject(int data)
         {
