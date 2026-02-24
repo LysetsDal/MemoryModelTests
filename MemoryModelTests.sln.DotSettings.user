@@ -4,5 +4,6 @@
     &lt;TestId&gt;xUnit::B78F363E-C89A-42F3-A33F-5FF52FB1374A::net8.0::MemoryModelTests.Volatiles.AcquireSemantics.Test_VolatileRead_Prevents_Subsequent_Load_From_Hoisting&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::B78F363E-C89A-42F3-A33F-5FF52FB1374A::net8.0::MemoryModelTests.Volatiles.AcquireSemantics.Test_VolatileRead_Prevents_Subsequent_Store_Hoisting&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::B78F363E-C89A-42F3-A33F-5FF52FB1374A::net8.0::MemoryModelTests.Volatiles.ReleaseSemantics.Test_VolatileWrite_Prevents_Previous_Store_From_Hoisting_Down&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::B78F363E-C89A-42F3-A33F-5FF52FB1374A::net8.0::MemoryModelTests.Readonly.ReadonlyImmutable.Test_Readonly_Publication_Safety&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
