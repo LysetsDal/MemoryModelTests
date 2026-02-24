@@ -10,8 +10,6 @@ public class ReadonlyImmutable(ITestOutputHelper testOutputHelper)
 {
     private readonly ITestOutputHelper _testOutputHelper = testOutputHelper;
 
-    private static Barrier barrier;
-
     [Fact]
     public void Test_Readonly_Publication_Safety()
     {
