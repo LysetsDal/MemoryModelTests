@@ -1,15 +1,14 @@
-﻿using System;
-using MemoryModelTests.Readonly;
-using Xunit.Abstractions;
+﻿using MemoryModelTests.Readonly;
 
 namespace MemoryModelTests;
 
-class Program
+internal class Program
 {
     public static void Main(string[] args)
     {
+        Console.WriteLine("Starting tests");
         var readonlyImmutable = new ReadonlyImmutable();
-        // readonlyImmutable.Test_Readonly_Publication_Safety();
-        readonlyImmutable.Test_Readonly_Store_Load_Semantics();
+        readonlyImmutable.Test_Readonly_With_Barrier();
+        Console.WriteLine("Finished tests");
     }
 }
