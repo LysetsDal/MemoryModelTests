@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|c:\\users\\dvh\\desktop\\github\\itu\\memorymodeltests\\memorymodeltests\\dvhtest\\semantics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|solutionrelative:memorymodeltests\\dvhtest\\semantics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|c:\\users\\dvh\\desktop\\github\\itu\\memorymodeltests\\memorymodeltests\\volatiles\\storebuffertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|solutionrelative:memorymodeltests\\volatiles\\storebuffertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|c:\\users\\dvh\\desktop\\github\\itu\\memorymodeltests\\memorymodeltests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|solutionrelative:memorymodeltests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 314,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99a11807-c5db-4877-ad35-09b56a044005}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "semantics.cs",
+              "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\semantics.cs",
+              "RelativeDocumentMoniker": "MemoryModelTests\\dvhTest\\semantics.cs",
+              "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\semantics.cs",
+              "RelativeToolTip": "MemoryModelTests\\dvhTest\\semantics.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:09:27.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreBufferTest.cs",
+              "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\Volatiles\\StoreBufferTest.cs",
+              "RelativeDocumentMoniker": "MemoryModelTests\\Volatiles\\StoreBufferTest.cs",
+              "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\Volatiles\\StoreBufferTest.cs",
+              "RelativeToolTip": "MemoryModelTests\\Volatiles\\StoreBufferTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:10:58.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\Program.cs",
+              "RelativeDocumentMoniker": "MemoryModelTests\\Program.cs",
+              "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\Program.cs",
+              "RelativeToolTip": "MemoryModelTests\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:10:55.505Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 286,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+2026.02.19 13:34:14 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava' for client Visual Studio Code 1.109.4.
+2026.02.19 13:34:14 INFO  Memory monitor started
+2026.02.19 13:34:16 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.02.19 13:34:16 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:17 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+feb. 19, 2026 1:34:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2026.02.19 13:34:17 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:17 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+feb. 19, 2026 1:34:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+2026.02.19 13:34:18 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+feb. 19, 2026 1:34:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+2026.02.19 13:34:18 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:18 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:18 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:18 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+feb. 19, 2026 1:34:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2026.02.19 13:34:18 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+feb. 19, 2026 1:34:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2026.02.19 13:34:18 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:30 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:31 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java
+2026.02.19 13:34:34 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:42 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:44 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:45 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:45 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:46 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:49 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:50 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:52 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:52 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:52 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:53 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:34:53 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:35:06 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+feb. 19, 2026 1:35:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+feb. 19, 2026 1:35:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.02.19 13:35:25 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java
+2026.02.19 13:35:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:35:44 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java
+2026.02.19 13:35:44 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:35:46 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:35:46 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:35:47 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:35:47 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:35:47 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:35:49 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:35:49 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+feb. 19, 2026 1:35:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+2026.02.19 13:35:50 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:36:50 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:39:16 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\AppTest.java
+2026.02.19 13:39:16 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:39:43 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java
+2026.02.19 13:39:43 WARN  Running javac-semanticdb failed for file:///C:/Users/dvh/Desktop/Github/ITU/MemoryModelTests/MemTestsJava/app/src/test/java/memtestsjava/ReorderingObservationTest.java. Output:
+
+2026.02.19 13:39:43 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:39:43 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:39:43 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:39:44 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java
+2026.02.19 13:39:44 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:40:43 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:40:43 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java
+2026.02.19 13:40:43 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 13:40:59 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java
+2026.02.19 13:40:59 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:40:59 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:40:59 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:40:59 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:41:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:41:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:41:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:41:47 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:42:16 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\AppTest.java. Using fallback presentation compiler.
+2026.02.19 13:42:55 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:42:55 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:42:56 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:42:56 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:42:58 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:42:58 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:00 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:17 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:22 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:27 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:27 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:27 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:28 INFO  Created report: Optional[file:///C:/Users/dvh/Desktop/Github/ITU/MemoryModelTests/MemTestsJava/app/src/test/java/memtestsjava/ReorderingObservationTest.java]
+2026.02.19 13:43:28 INFO  empty definition using pc, found symbol in pc: java/io/PrintStream#println(+8). (full report at: "C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\.metals\.reports\metals-full\2026-02-19\r_empty-definition_13-43-28-672.md")
+2026.02.19 13:43:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:28 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java
+2026.02.19 13:43:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:29 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:29 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+feb. 19, 2026 1:43:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 160
+2026.02.19 13:43:30 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 13:43:33 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:03:43 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:03:45 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:03:45 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:03:46 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:03:47 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:04:27 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:04:30 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.02.19 14:04:49 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:04:49 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java
+2026.02.19 14:04:49 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:04:50 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:04:49 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:04:49 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:04:53 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:39 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:39 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:42 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:42 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:44 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:44 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:44 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:44 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:44 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:45 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+feb. 19, 2026 2:06:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 235
+2026.02.19 14:06:45 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:45 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:46 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:46 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:46 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:46 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:46 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:47 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:47 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:47 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:48 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:48 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:48 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:57 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:06:58 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:00 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:02 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:02 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:03 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:03 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:05 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:05 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:06 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:07 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:06 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:08 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:14 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:14 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:14 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:32 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:37 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:37 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:37 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:37 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:38 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:38 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:38 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:38 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:39 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:39 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:39 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:39 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:40 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:40 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:40 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:40 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:41 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:41 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:41 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:41 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:42 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:43 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java
+2026.02.19 14:07:43 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:46 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:48 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:51 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:07:51 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:10 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:10 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:10 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:10 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:20 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\AppTest.java
+2026.02.19 14:08:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\AppTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\AppTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\AppTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\AppTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:22 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:22 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java
+2026.02.19 14:08:22 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:22 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:22 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:22 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:57 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java
+2026.02.19 14:08:57 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:57 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:57 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:57 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:57 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:08:58 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+feb. 19, 2026 2:08:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 414
+2026.02.19 14:08:58 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:09:01 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+feb. 19, 2026 2:09:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 416
+2026.02.19 14:10:24 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:10:24 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java
+2026.02.19 14:10:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:10:24 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:10:24 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:10:27 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:10:47 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:32 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:32 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:32 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:33 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:33 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:33 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:33 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:34 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:34 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:34 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:34 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:35 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:37 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:37 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:38 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:38 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:38 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:38 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:38 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:39 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:39 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:40 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:41 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:41 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:41 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:41 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:41 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:41 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:41 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:41 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:42 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:42 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:42 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:42 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:43 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:43 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:43 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:45 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:11:45 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java
+2026.02.19 14:11:45 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:14:47 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:15:42 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:15:44 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:18:33 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:18:35 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:18:35 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.19 14:18:37 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\test\java\memtestsjava\ReorderingObservationTest.java. Using fallback presentation compiler.
+2026.02.20 13:29:11 INFO  Shutting down server
+2026.02.20 13:29:11 INFO  Memory monitor stopped
+2026.02.20 13:29:11 INFO  shutting down Metals
+2026.02.20 13:29:11 INFO  Exiting server
