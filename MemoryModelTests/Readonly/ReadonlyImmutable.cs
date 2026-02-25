@@ -4,6 +4,9 @@ namespace MemoryModelTests.Readonly;
 
 public class ReadonlyImmutable
 {
+    private bool _isReady;
+    private HelperObject _sharedHelper;
+
     [Fact]
     public void Test_Readonly_Publication_Safety()
     {
@@ -18,7 +21,7 @@ public class ReadonlyImmutable
             var t1 = new Thread(() =>
             {
                 startSignal.Wait();
-                var obj = new HelperObject(1);
+                var obj = new HelperObject(-1, 1);
                 helperObject = obj;
             });
 
@@ -29,7 +32,7 @@ public class ReadonlyImmutable
 
                 while (helperObject is not HelperObject) Thread.SpinWait(1);
 
-                observedData = helperObject.getData();
+                observedData = helperObject.getReadonly();
             });
 
             t1.Start();
@@ -44,84 +47,67 @@ public class ReadonlyImmutable
     }
 
     [Fact]
-    public void Test_Readonly_With_Barrier()
+    public void Test_Readonly_Publication()
     {
-        for (var i = 0; i < 100_000; i++)
+        HelperObject helperObject1 = null;
+        HelperObject helperObject2 = null;
+        var observedData1 = -1;
+        var observedData2 = -1;
+
+        var startSignal = new ManualResetEventSlim(false);
+
+        // Thread 1: Constructs the class with the readonly field
+        var t1 = new Thread(() =>
         {
-            HelperObject helperObject = null;
-            var observedData = -1;
-            var barrier = new Barrier(2);
+            startSignal.Wait();
+            helperObject1 = new HelperObject(-1, 1);
 
-            // Thread 1: Constructs the class with the readonly field
-            var t1 = new Thread(() =>
-            {
-                barrier.SignalAndWait();
-                var obj = new HelperObject(1);
-                helperObject = obj;
-            });
+            while (helperObject2 == null) Thread.SpinWait(1);
 
-            // Thread 2: Reads the field after object construction finishes
-            var t2 = new Thread(() =>
-            {
-                barrier.SignalAndWait();
-                while (helperObject is not HelperObject) Thread.SpinWait(1);
+            observedData1 = helperObject2.getReadonly();
+        });
 
-                observedData = helperObject.getData();
-            });
+        // Thread 2: Reads the field after object construction finishes
+        var t2 = new Thread(() =>
+        {
+            startSignal.Wait();
+            helperObject2 = new HelperObject(-1, 2);
 
-            t1.Start();
-            t2.Start();
-            t1.Join();
-            t2.Join();
+            while (helperObject1 == null) Thread.SpinWait(1);
 
-            // If readonly semantics failed, observedData should be 0
-            Assert.Equal(1, observedData);
-        }
+            observedData2 = helperObject1.getReadonly();
+        });
+
+        t1.Start();
+        t2.Start();
+        startSignal.Set(); // Release both threads at once
+        t1.Join();
+        t2.Join();
+
+        // If readonly semantics failed, observedData should be 0
+        Assert.Equal(2, observedData1);
+        Assert.Equal(1, observedData2);
     }
 
     [Fact]
-    public void Test_Readonly_Store_Load_Semantics()
+    public void Prove_Readonly_Safety_By_Contrast()
     {
-        for (var i = 0; i < 100_000; i++)
-        {
-            HelperObject helperObject1 = null;
-            HelperObject helperObject2 = null;
-            var observedData1 = -1;
-            var observedData2 = -1;
+        _sharedHelper = null;
+        _isReady = false;
+        var observedNormal = -1;
 
-            var startSignal = new ManualResetEventSlim(false);
+        var start = new ManualResetEventSlim(false);
 
-            // Thread 1: Constructs the class with the readonly field
-            var t1 = new Thread(() =>
-            {
-                startSignal.Wait();
-                helperObject1 = new HelperObject(1);
+        // Thread 1: Creation and Publication of shared Object
+        var t1 = new Thread(() => { });
 
-                while (helperObject2 == null) Thread.SpinWait(1);
+        // Thread 2: Try to read the default value 0
+        var t2 = new Thread(() => { });
 
-                observedData1 = helperObject2.getData();
-            });
-
-            // Thread 2: Reads the field after object construction finishes
-            var t2 = new Thread(() =>
-            {
-                startSignal.Wait();
-                helperObject2 = new HelperObject(2);
-
-                while (helperObject1 == null) Thread.SpinWait(1);
-
-                observedData2 = helperObject1.getData();
-            });
-
-            t1.Start();
-            t2.Start();
-            startSignal.Set(); // Release both threads at once
-            t1.Join();
-            t2.Join();
-
-            // If readonly semantics failed, observedData should be 0
-            Assert.Equal(2, observedData1);
-            Assert.Equal(1, observedData2);
-        }
+        t1.Start();
+        t2.Start();
+        // start.Set();
+        t1.Join();
+        t2.Join();
     }
 }

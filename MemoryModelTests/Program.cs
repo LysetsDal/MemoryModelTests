@@ -8,7 +8,7 @@ internal class Program
     {
         Console.WriteLine("Starting tests");
         var readonlyImmutable = new ReadonlyImmutable();
-        readonlyImmutable.Test_Readonly_With_Barrier();
+        readonlyImmutable.Prove_Readonly_Safety_By_Contrast();
         Console.WriteLine("Finished tests");
     }
 }

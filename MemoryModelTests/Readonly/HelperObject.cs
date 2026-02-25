@@ -2,16 +2,27 @@ namespace MemoryModelTests.Readonly;
 
 public class HelperObject
 {
-    private readonly int _data;
-    // private int _data;
+    private readonly int NormalData;
+    private readonly int ReadonlyData;
 
-    public HelperObject(int data)
+    public HelperObject(int num)
     {
-        _data = data;
+        NormalData = num;
     }
 
-    public int getData()
+    public HelperObject(int num, int readOnly)
     {
-        return _data;
+        NormalData = num;
+        ReadonlyData = readOnly;
+    }
+
+    public int getReadonly()
+    {
+        return ReadonlyData;
+    }
+
+    public int getInteger()
+    {
+        return NormalData;
     }
 }
