@@ -295,3 +295,818 @@ WARNING: Unmatched cancel notification for request id 416
 2026.02.20 13:29:11 INFO  Memory monitor stopped
 2026.02.20 13:29:11 INFO  shutting down Metals
 2026.02.20 13:29:11 INFO  Exiting server
+2026.03.09 15:01:10 INFO  Started: Metals version 1.6.5 in folders 'C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava' for client Visual Studio Code 1.109.5.
+2026.03.09 15:01:10 INFO  Memory monitor started
+2026.03.09 15:01:12 WARN  Using H2 2.4.240 which is newer than the version Flyway has been verified with. The latest verified version of H2 is 2.3.232.
+2026.03.09 15:01:13 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:01:20 INFO  running 'C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\gradlew.bat --stacktrace --console=plain --init-script C:\Users\dvh\AppData\Local\Temp\metals2845765738039986821\init-script.gradle bloopInstall'
+2026.03.09 15:01:24 INFO  Starting a Gradle Daemon (subsequent builds will be faster)
+2026.03.09 15:01:32 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:01:37 INFO  Calculating task graph as no cached configuration is available for tasks: bloopInstall
+2026.03.09 15:01:57 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:02:04 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:02:04 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:02:06 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:02:09 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:02:21 INFO  > Task :configureBloopInstall
+2026.03.09 15:02:21 INFO  > Task :bloopInstall
+2026.03.09 15:02:21 INFO  > Task :app:configureBloopInstall FAILED
+2026.03.09 15:02:21 INFO  
+2026.03.09 15:02:21 INFO  [Incubating] Problems report is available at: file:///C:/Users/dvh/Desktop/Github/ITU/MemoryModelTests/MemTestsJava/build/reports/problems/problems-report.html
+2026.03.09 15:02:21 ERROR 
+2026.03.09 15:02:21 ERROR FAILURE: Build completed with 2 failures.
+2026.03.09 15:02:21 ERROR 
+2026.03.09 15:02:21 ERROR 1: Task failed with an exception.
+2026.03.09 15:02:21 ERROR -----------
+2026.03.09 15:02:21 ERROR * What went wrong:
+2026.03.09 15:02:21 ERROR Execution failed for task ':app:configureBloopInstall'.
+2026.03.09 15:02:21 ERROR > Could not resolve all dependencies for configuration ':app:compileClasspath'.
+2026.03.09 15:02:21 ERROR    > Could not create task ':app:compileJava'.
+2026.03.09 15:02:21 ERROR       > Execution of task ':app:configureBloopInstall' caused invocation of 'Task.project' by task ':app:compileJava' at execution time which is unsupported with the configuration cache.
+2026.03.09 15:02:21 ERROR 
+2026.03.09 15:02:21 ERROR * Try:
+2026.03.09 15:02:21 ERROR > Run with --info or --debug option to get more log output.
+2026.03.09 15:02:21 ERROR > Run with --scan to generate a Build Scan (powered by Develocity).
+2026.03.09 15:02:21 ERROR > Get more help at https://help.gradle.org.
+2026.03.09 15:02:21 ERROR 
+2026.03.09 15:02:21 ERROR * Exception is:
+2026.03.09 15:02:21 ERROR org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':app:configureBloopInstall'.
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.lambda$executeIfValid$1(ExecuteActionsTaskExecuter.java:135)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.Try$Failure.ifSuccessfulOrElse(Try.java:288)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:133)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:121)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.ProblemsTaskPathTrackingTaskExecuter.execute(ProblemsTaskPathTrackingTaskExecuter.java:41)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:74)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.plan.DefaultNodeExecutor.executeLocalTaskNode(DefaultNodeExecutor.java:55)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.plan.DefaultNodeExecutor.execute(DefaultNodeExecutor.java:34)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:355)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:343)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.lambda$execute$0(DefaultTaskExecutionGraph.java:339)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:84)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:339)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:328)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:459)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:376)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.plan.DefaultPlanExecutor.process(DefaultPlanExecutor.java:111)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph.executeWithServices(DefaultTaskExecutionGraph.java:146)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph.execute(DefaultTaskExecutionGraph.java:131)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.SelectedTaskExecutionAction.execute(SelectedTaskExecutionAction.java:35)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor$ExecuteTasks.call(BuildOperationFiringBuildWorkerExecutor.java:54)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor$ExecuteTasks.call(BuildOperationFiringBuildWorkerExecutor.java:43)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+2026.03.09 15:02:21 ERROR 	at org.gradle.execution.BuildOperationFiringBuildWorkerExecutor.execute(BuildOperationFiringBuildWorkerExecutor.java:40)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.build.DefaultBuildLifecycleController.lambda$executeTasks$10(DefaultBuildLifecycleController.java:313)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.model.StateTransitionController.doTransition(StateTransitionController.java:266)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.model.StateTransitionController.lambda$tryTransition$8(StateTransitionController.java:177)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.work.DefaultSynchronizer.withLock(DefaultSynchronizer.java:45)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.model.StateTransitionController.tryTransition(StateTransitionController.java:177)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.build.DefaultBuildLifecycleController.executeTasks(DefaultBuildLifecycleController.java:304)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.build.DefaultBuildWorkGraphController$DefaultBuildWorkGraph.runWork(DefaultBuildWorkGraphController.java:220)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.work.DefaultWorkerLeaseService.lambda$withLocksAcquired$0(DefaultWorkerLeaseService.java:269)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.work.ResourceLockStatistics$1.measure(ResourceLockStatistics.java:42)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocksAcquired(DefaultWorkerLeaseService.java:267)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:259)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:127)
+2026.03.09 15:02:21 ERROR 	at org.gradle.composite.internal.DefaultBuildController.doRun(DefaultBuildController.java:181)
+2026.03.09 15:02:21 ERROR 	at org.gradle.composite.internal.DefaultBuildController.access$000(DefaultBuildController.java:50)
+2026.03.09 15:02:21 ERROR 	at org.gradle.composite.internal.DefaultBuildController$BuildOpRunnable.lambda$run$0(DefaultBuildController.java:198)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:84)
+2026.03.09 15:02:21 ERROR 	at org.gradle.composite.internal.DefaultBuildController$BuildOpRunnable.run(DefaultBuildController.java:198)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:47)
+2026.03.09 15:02:21 ERROR Caused by: org.gradle.api.internal.artifacts.ivyservice.TypedResolveException: Could not resolve all dependencies for configuration ':app:compileClasspath'.
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.ResolveExceptionMapper.mapFailure(ResolveExceptionMapper.java:73)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultConfiguration$1.call(DefaultConfiguration.java:633)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultConfiguration$1.call(DefaultConfiguration.java:623)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultConfiguration.resolveGraphInBuildOperation(DefaultConfiguration.java:623)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultConfiguration.lambda$resolveExclusivelyIfRequired$3(DefaultConfiguration.java:615)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.project.DefaultProjectStateRegistry$CalculatedModelValueImpl.update(DefaultProjectStateRegistry.java:544)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultConfiguration.resolveExclusivelyIfRequired(DefaultConfiguration.java:610)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultConfiguration.resolveGraphIfRequired(DefaultConfiguration.java:603)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultConfiguration.access$900(DefaultConfiguration.java:142)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultConfiguration$ResolverResultsResolutionResultProvider.getValue(DefaultConfiguration.java:585)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultConfiguration$ResolverResultsResolutionResultProvider.getValue(DefaultConfiguration.java:571)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultConfiguration.getResolvedConfiguration(DefaultConfiguration.java:524)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultResolvableConfiguration_Decorated.getResolvedConfiguration(Unknown Source)
+2026.03.09 15:02:21 ERROR 	at bloop.integrations.gradle.tasks.ConfigureBloopInstallTask.addSourceSetAsInputs(ConfigureBloopInstallTask.scala:58)
+2026.03.09 15:02:21 ERROR 	at bloop.integrations.gradle.tasks.ConfigureBloopInstallTask.$anonfun$run$1(ConfigureBloopInstallTask.scala:38)
+2026.03.09 15:02:21 ERROR 	at bloop.integrations.gradle.tasks.ConfigureBloopInstallTask.$anonfun$run$1$adapted(ConfigureBloopInstallTask.scala:38)
+2026.03.09 15:02:21 ERROR 	at scala.collection.immutable.Set$Set2.foreach(Set.scala:181)
+2026.03.09 15:02:21 ERROR 	at bloop.integrations.gradle.tasks.ConfigureBloopInstallTask.run(ConfigureBloopInstallTask.scala:38)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:125)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.doExecute(StandardTaskAction.java:58)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:51)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:29)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.TaskExecution$3.run(TaskExecution.java:252)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:47)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.TaskExecution.executeAction(TaskExecution.java:237)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.TaskExecution.executeActions(TaskExecution.java:220)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.TaskExecution.executeWithPreviousOutputFiles(TaskExecution.java:203)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.TaskExecution.execute(TaskExecution.java:170)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ExecuteStep.executeInternal(ExecuteStep.java:105)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ExecuteStep.access$000(ExecuteStep.java:44)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ExecuteStep$1.call(ExecuteStep.java:56)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:56)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ExecuteStep.execute(ExecuteStep.java:44)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.CancelExecutionStep.execute(CancelExecutionStep.java:42)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.TimeoutStep.executeWithoutTimeout(TimeoutStep.java:75)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.TimeoutStep.execute(TimeoutStep.java:55)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:50)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.PreCreateOutputParentsStep.execute(PreCreateOutputParentsStep.java:28)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:68)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.RemovePreviousOutputsStep.execute(RemovePreviousOutputsStep.java:38)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:61)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.BroadcastChangingOutputsStep.execute(BroadcastChangingOutputsStep.java:26)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:69)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.CaptureOutputsAfterExecutionStep.execute(CaptureOutputsAfterExecutionStep.java:46)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:39)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ResolveInputChangesStep.execute(ResolveInputChangesStep.java:28)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.BuildCacheStep.executeWithoutCache(BuildCacheStep.java:189)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.BuildCacheStep.lambda$execute$1(BuildCacheStep.java:75)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.Either$Right.fold(Either.java:176)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.caching.CachingState.fold(CachingState.java:62)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:73)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.BuildCacheStep.execute(BuildCacheStep.java:48)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:46)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.StoreExecutionStateStep.execute(StoreExecutionStateStep.java:35)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.SkipUpToDateStep.executeBecause(SkipUpToDateStep.java:75)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.SkipUpToDateStep.lambda$execute$2(SkipUpToDateStep.java:53)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:53)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.SkipUpToDateStep.execute(SkipUpToDateStep.java:35)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:37)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsFinishedStep.execute(MarkSnapshottingInputsFinishedStep.java:27)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:49)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ResolveIncrementalCachingStateStep.executeDelegate(ResolveIncrementalCachingStateStep.java:27)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:71)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.AbstractResolveCachingStateStep.execute(AbstractResolveCachingStateStep.java:39)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:64)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ResolveChangesStep.execute(ResolveChangesStep.java:35)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:62)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ValidateStep.execute(ValidateStep.java:40)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:76)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.AbstractCaptureStateBeforeExecutionStep.execute(AbstractCaptureStateBeforeExecutionStep.java:45)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.executeWithNonEmptySources(AbstractSkipEmptyWorkStep.java:136)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:61)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.AbstractSkipEmptyWorkStep.execute(AbstractSkipEmptyWorkStep.java:38)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.legacy.MarkSnapshottingInputsStartedStep.execute(MarkSnapshottingInputsStartedStep.java:38)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:36)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.LoadPreviousExecutionStateStep.execute(LoadPreviousExecutionStateStep.java:23)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:75)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.HandleStaleOutputsStep.execute(HandleStaleOutputsStep.java:41)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.lambda$execute$0(AssignMutableWorkspaceStep.java:35)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.TaskExecution$4.withWorkspace(TaskExecution.java:297)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:31)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.AssignMutableWorkspaceStep.execute(AssignMutableWorkspaceStep.java:22)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:40)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ChoosePipelineStep.execute(ChoosePipelineStep.java:23)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.lambda$execute$2(ExecuteWorkBuildOperationFiringStep.java:67)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:67)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.ExecuteWorkBuildOperationFiringStep.execute(ExecuteWorkBuildOperationFiringStep.java:39)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:46)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.IdentityCacheStep.execute(IdentityCacheStep.java:34)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:44)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.steps.IdentifyStep.execute(IdentifyStep.java:31)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.execution.impl.DefaultExecutionEngine$1.execute(DefaultExecutionEngine.java:64)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:132)
+2026.03.09 15:02:21 ERROR 	... 61 more
+2026.03.09 15:02:21 ERROR Caused by: org.gradle.api.internal.tasks.DefaultTaskContainer$TaskCreationException: Could not create task ':app:compileJava'.
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.DefaultTaskContainer.taskCreationException(DefaultTaskContainer.java:750)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.DefaultTaskContainer.access$600(DefaultTaskContainer.java:75)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.DefaultTaskContainer$TaskCreatingProvider.domainObjectCreationException(DefaultTaskContainer.java:742)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.DefaultNamedDomainObjectCollection$AbstractDomainObjectCreatingProvider.tryCreate(DefaultNamedDomainObjectCollection.java:1016)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.DefaultTaskContainer$TaskCreatingProvider.access$1401(DefaultTaskContainer.java:689)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.DefaultTaskContainer$TaskCreatingProvider$1.run(DefaultTaskContainer.java:715)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:47)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.tasks.DefaultTaskContainer$TaskCreatingProvider.tryCreate(DefaultTaskContainer.java:711)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.DefaultNamedDomainObjectCollection$AbstractDomainObjectCreatingProvider.calculateOwnValue(DefaultNamedDomainObjectCollection.java:990)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.AbstractMinimalProvider.calculateValue(AbstractMinimalProvider.java:115)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.FlatMapProvider.backingProvider(FlatMapProvider.java:72)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.FlatMapProvider.getProducer(FlatMapProvider.java:82)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.TransformBackedProvider.getProducer(TransformBackedProvider.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.TransformBackedProvider.beforeRead(TransformBackedProvider.java:95)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.TransformBackedProvider.calculateOwnValue(TransformBackedProvider.java:80)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.AbstractMinimalProvider.calculateValue(AbstractMinimalProvider.java:115)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.DelegatingProviderWithValue.calculateOwnValue(DelegatingProviderWithValue.java:45)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.AbstractMinimalProvider.calculateValue(AbstractMinimalProvider.java:115)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.TransformBackedProvider.calculateOwnValue(TransformBackedProvider.java:81)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.AbstractMinimalProvider.calculateValue(AbstractMinimalProvider.java:115)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.MapCollectors$EntryWithValueFromProvider.collectEntries(MapCollectors.java:104)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.DefaultMapProperty$CollectingSupplier.lambda$calculateOwnValue$1(DefaultMapProperty.java:594)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.AbstractCollectingSupplier.calculateValue(AbstractCollectingSupplier.java:87)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.DefaultMapProperty$CollectingSupplier.calculateOwnValue(DefaultMapProperty.java:593)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.AbstractMinimalProvider.calculateValue(AbstractMinimalProvider.java:115)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.AbstractCollectingSupplier.calculateValue(AbstractCollectingSupplier.java:41)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.DefaultMapProperty.calculateValueFrom(DefaultMapProperty.java:348)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.DefaultMapProperty.calculateValueFrom(DefaultMapProperty.java:58)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.AbstractProperty.doCalculateValue(AbstractProperty.java:176)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.AbstractProperty.calculateOwnValue(AbstractProperty.java:169)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.AbstractMinimalProvider.calculateOwnPresentValue(AbstractMinimalProvider.java:80)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.provider.AbstractMinimalProvider.get(AbstractMinimalProvider.java:100)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.attributes.DefaultMutableAttributeContainer.doRealize(DefaultMutableAttributeContainer.java:153)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.attributes.DefaultMutableAttributeContainer.asImmutable(DefaultMutableAttributeContainer.java:193)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.attributes.FreezableAttributeContainer.freeze(FreezableAttributeContainer.java:45)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultConfiguration.lambda$markAsObserved$9(DefaultConfiguration.java:989)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultConfiguration.runActionInHierarchy(DefaultConfiguration.java:1022)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultConfiguration.markAsObserved(DefaultConfiguration.java:979)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.ivyservice.moduleconverter.dependencies.DefaultLocalVariantGraphResolveStateBuilder.finalize(DefaultLocalVariantGraphResolveStateBuilder.java:199)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.ivyservice.moduleconverter.dependencies.DefaultLocalVariantGraphResolveStateBuilder.createRootVariantState(DefaultLocalVariantGraphResolveStateBuilder.java:95)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.ivyservice.DefaultConfigurationResolver.asRootVariant(DefaultConfigurationResolver.java:130)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.ivyservice.DefaultConfigurationResolver.resolveGraph(DefaultConfigurationResolver.java:117)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.artifacts.configurations.DefaultConfiguration$1.call(DefaultConfiguration.java:631)
+2026.03.09 15:02:21 ERROR 	... 173 more
+2026.03.09 15:02:21 ERROR Caused by: org.gradle.api.InvalidUserCodeException: Execution of task ':app:configureBloopInstall' caused invocation of 'Task.project' by task ':app:compileJava' at execution time which is unsupported with the configuration cache.
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.configuration.problems.DefaultProblemFactory$problem$1$build$diagnostics$1.get(DefaultProblemFactory.kt:89)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.configuration.problems.DefaultProblemFactory$problem$1$build$diagnostics$1.get(DefaultProblemFactory.kt:89)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.problems.DefaultProblemDiagnosticsFactory$DefaultProblemStream.getImplicitThrowable(DefaultProblemDiagnosticsFactory.java:165)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.problems.DefaultProblemDiagnosticsFactory$DefaultProblemStream.forCurrentCaller(DefaultProblemDiagnosticsFactory.java:154)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.configuration.problems.DefaultProblemFactory$problem$1.build(DefaultProblemFactory.kt:89)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.cc.impl.initialization.DefaultConfigurationCacheProblemsListener.onTaskExecutionAccessProblem(ConfigurationCacheProblemsListener.kt:133)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.cc.impl.initialization.DefaultConfigurationCacheProblemsListener.onProjectAccess(ConfigurationCacheProblemsListener.kt:73)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.dispatch.MethodInvocation.invokeOn(MethodInvocation.java:77)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:28)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:19)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.event.DefaultListenerManager$ListenerDetails.dispatch(DefaultListenerManager.java:581)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.event.DefaultListenerManager$ListenerDetails.dispatch(DefaultListenerManager.java:551)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.event.AbstractBroadcastDispatch.dispatch(AbstractBroadcastDispatch.java:84)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.event.AbstractBroadcastDispatch.dispatch(AbstractBroadcastDispatch.java:70)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.event.DefaultListenerManager$EventBroadcast$ListenerDispatch.dispatch(DefaultListenerManager.java:408)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.event.DefaultListenerManager$EventBroadcast$ListenerDispatch.dispatch(DefaultListenerManager.java:393)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.event.AbstractBroadcastDispatch.dispatch(AbstractBroadcastDispatch.java:44)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.event.AbstractBroadcastDispatch.dispatch(AbstractBroadcastDispatch.java:67)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.event.DefaultListenerManager$EventBroadcast$ListenerDispatch.dispatch(DefaultListenerManager.java:408)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.event.DefaultListenerManager$EventBroadcast$ListenerDispatch.dispatch(DefaultListenerManager.java:393)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:88)
+2026.03.09 15:02:21 ERROR 	at jdk.proxy1/jdk.proxy1.$Proxy91.onProjectAccess(Unknown Source)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.cc.impl.AbstractTaskProjectAccessChecker.notifyProjectAccess(TaskExecutionAccessCheckers.kt:47)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.AbstractTask.getProject(AbstractTask.java:240)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.DefaultTask.getProject(DefaultTask.java:60)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.tasks.SourceTask.setSource(SourceTask.java:92)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.tasks.compile.JavaCompile_Decorated.setSource(Unknown Source)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.tasks.SourceTask.setSource(SourceTask.java:83)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.tasks.compile.JavaCompile_Decorated.setSource(Unknown Source)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.plugins.JavaBasePlugin.lambda$createCompileJavaTask$5(JavaBasePlugin.java:213)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.DefaultMutationGuard$1.execute(DefaultMutationGuard.java:66)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.DefaultMutationGuard$1.execute(DefaultMutationGuard.java:66)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.code.DefaultUserCodeApplicationContext$CurrentApplication$1.execute(DefaultUserCodeApplicationContext.java:124)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.DefaultCollectionCallbackActionDecorator$BuildOperationEmittingAction$1.run(DefaultCollectionCallbackActionDecorator.java:109)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:29)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$1.execute(DefaultBuildOperationRunner.java:26)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.run(DefaultBuildOperationRunner.java:47)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.DefaultCollectionCallbackActionDecorator$BuildOperationEmittingAction.execute(DefaultCollectionCallbackActionDecorator.java:106)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.ImmutableActionSet$SetWithManyActions.execute(ImmutableActionSet.java:330)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.DefaultDomainObjectCollection.doAdd(DefaultDomainObjectCollection.java:280)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.DefaultNamedDomainObjectCollection.doAdd(DefaultNamedDomainObjectCollection.java:126)
+2026.03.09 15:02:21 ERROR 	at org.gradle.api.internal.DefaultNamedDomainObjectCollection$AbstractDomainObjectCreatingProvider.tryCreate(DefaultNamedDomainObjectCollection.java:1010)
+2026.03.09 15:02:21 ERROR 	... 218 more
+2026.03.09 15:02:21 ERROR 
+2026.03.09 15:02:21 ERROR ==============================================================================
+2026.03.09 15:02:21 ERROR 
+2026.03.09 15:02:21 ERROR 2: Task failed with an exception.
+2026.03.09 15:02:21 ERROR -----------
+2026.03.09 15:02:21 ERROR * What went wrong:
+2026.03.09 15:02:21 ERROR Configuration cache problems found in this build.
+2026.03.09 15:02:21 ERROR 
+2026.03.09 15:02:21 ERROR 9 problems were found storing the configuration cache, 7 of which seem unique.
+2026.03.09 15:02:21 ERROR - Task `:app:bloopInstall` of type `bloop.integrations.gradle.tasks.BloopInstallTask`: cannot serialize object of type 'org.gradle.api.internal.project.DefaultProject', a subtype of 'org.gradle.api.Project', as these are not supported with the configuration cache.
+2026.03.09 15:02:21 ERROR   See https://docs.gradle.org/9.2.0/userguide/configuration_cache_requirements.html#config_cache:requirements:disallowed_types
+2026.03.09 15:02:21 ERROR - Task `:app:configureBloopInstall` of type `bloop.integrations.gradle.tasks.ConfigureBloopInstallTask`: cannot serialize object of type 'bloop.integrations.gradle.tasks.BloopInstallTask', a subtype of 'org.gradle.api.Task', as these are not supported with the configuration cache.
+2026.03.09 15:02:21 ERROR   See https://docs.gradle.org/9.2.0/userguide/configuration_cache_requirements.html#config_cache:requirements:task_access
+2026.03.09 15:02:21 ERROR - Task `:app:configureBloopInstall` of type `bloop.integrations.gradle.tasks.ConfigureBloopInstallTask`: cannot serialize object of type 'org.gradle.api.internal.project.DefaultProject', a subtype of 'org.gradle.api.Project', as these are not supported with the configuration cache.
+2026.03.09 15:02:21 ERROR   See https://docs.gradle.org/9.2.0/userguide/configuration_cache_requirements.html#config_cache:requirements:disallowed_types
+2026.03.09 15:02:21 ERROR - Task `:bloopInstall` of type `bloop.integrations.gradle.tasks.BloopInstallTask`: cannot serialize object of type 'org.gradle.api.internal.project.DefaultProject', a subtype of 'org.gradle.api.Project', as these are not supported with the configuration cache.
+2026.03.09 15:02:21 ERROR   See https://docs.gradle.org/9.2.0/userguide/configuration_cache_requirements.html#config_cache:requirements:disallowed_types
+2026.03.09 15:02:21 ERROR - Task `:configureBloopInstall` of type `bloop.integrations.gradle.tasks.ConfigureBloopInstallTask`: cannot serialize object of type 'bloop.integrations.gradle.tasks.BloopInstallTask', a subtype of 'org.gradle.api.Task', as these are not supported with the configuration cache.
+2026.03.09 15:02:21 ERROR   See https://docs.gradle.org/9.2.0/userguide/configuration_cache_requirements.html#config_cache:requirements:task_access
+2026.03.09 15:02:21 ERROR - Task `:configureBloopInstall` of type `bloop.integrations.gradle.tasks.ConfigureBloopInstallTask`: cannot serialize object of type 'org.gradle.api.internal.project.DefaultProject', a subtype of 'org.gradle.api.Project', as these are not supported with the configuration cache.
+2026.03.09 15:02:21 ERROR   See https://docs.gradle.org/9.2.0/userguide/configuration_cache_requirements.html#config_cache:requirements:disallowed_types
+2026.03.09 15:02:21 ERROR - Plugin class 'org.gradle.api.plugins.JavaBasePlugin': execution of task ':app:configureBloopInstall' caused invocation of 'Task.project' in other task at execution time which is unsupported with the configuration cache.
+2026.03.09 15:02:21 ERROR   See https://docs.gradle.org/9.2.0/userguide/configuration_cache_requirements.html#config_cache:requirements:use_project_during_execution
+2026.03.09 15:02:21 ERROR 
+2026.03.09 15:02:21 ERROR See the complete report at file:///C:/Users/dvh/Desktop/Github/ITU/MemoryModelTests/MemTestsJava/build/reports/configuration-cache/53zw76z5rgt5y2atadhl44lz/22h1i3t3exla8yw1yvwmw856d/configuration-cache-report.html
+2026.03.09 15:02:21 ERROR 
+2026.03.09 15:02:21 ERROR * Try:
+2026.03.09 15:02:21 ERROR > Run with --info or --debug option to get more log output.
+2026.03.09 15:02:21 ERROR > Run with --scan to generate a Build Scan (powered by Develocity).
+2026.03.09 15:02:21 ERROR > Get more help at https://help.gradle.org.
+2026.03.09 15:02:21 ERROR 
+2026.03.09 15:02:21 ERROR * Exception is:
+2026.03.09 15:02:21 ERROR org.gradle.internal.cc.impl.ConfigurationCacheProblemsException: Configuration cache problems found in this build.
+2026.03.09 15:02:21 ERROR 
+2026.03.09 15:02:21 ERROR 9 problems were found storing the configuration cache, 7 of which seem unique.
+2026.03.09 15:02:21 ERROR - Task `:app:bloopInstall` of type `bloop.integrations.gradle.tasks.BloopInstallTask`: cannot serialize object of type 'org.gradle.api.internal.project.DefaultProject', a subtype of 'org.gradle.api.Project', as these are not supported with the configuration cache.
+2026.03.09 15:02:21 ERROR   See https://docs.gradle.org/9.2.0/userguide/configuration_cache_requirements.html#config_cache:requirements:disallowed_types
+2026.03.09 15:02:21 ERROR - Task `:app:configureBloopInstall` of type `bloop.integrations.gradle.tasks.ConfigureBloopInstallTask`: cannot serialize object of type 'bloop.integrations.gradle.tasks.BloopInstallTask', a subtype of 'org.gradle.api.Task', as these are not supported with the configuration cache.
+2026.03.09 15:02:21 ERROR   See https://docs.gradle.org/9.2.0/userguide/configuration_cache_requirements.html#config_cache:requirements:task_access
+2026.03.09 15:02:21 ERROR - Task `:app:configureBloopInstall` of type `bloop.integrations.gradle.tasks.ConfigureBloopInstallTask`: cannot serialize object of type 'org.gradle.api.internal.project.DefaultProject', a subtype of 'org.gradle.api.Project', as these are not supported with the configuration cache.
+2026.03.09 15:02:21 ERROR   See https://docs.gradle.org/9.2.0/userguide/configuration_cache_requirements.html#config_cache:requirements:disallowed_types
+2026.03.09 15:02:21 ERROR - Task `:bloopInstall` of type `bloop.integrations.gradle.tasks.BloopInstallTask`: cannot serialize object of type 'org.gradle.api.internal.project.DefaultProject', a subtype of 'org.gradle.api.Project', as these are not supported with the configuration cache.
+2026.03.09 15:02:21 ERROR   See https://docs.gradle.org/9.2.0/userguide/configuration_cache_requirements.html#config_cache:requirements:disallowed_types
+2026.03.09 15:02:21 ERROR - Task `:configureBloopInstall` of type `bloop.integrations.gradle.tasks.ConfigureBloopInstallTask`: cannot serialize object of type 'bloop.integrations.gradle.tasks.BloopInstallTask', a subtype of 'org.gradle.api.Task', as these are not supported with the configuration cache.
+2026.03.09 15:02:21 ERROR   See https://docs.gradle.org/9.2.0/userguide/configuration_cache_requirements.html#config_cache:requirements:task_access
+2026.03.09 15:02:21 ERROR - Task `:configureBloopInstall` of type `bloop.integrations.gradle.tasks.ConfigureBloopInstallTask`: cannot serialize object of type 'org.gradle.api.internal.project.DefaultProject', a subtype of 'org.gradle.api.Project', as these are not supported with the configuration cache.
+2026.03.09 15:02:21 ERROR   See https://docs.gradle.org/9.2.0/userguide/configuration_cache_requirements.html#config_cache:requirements:disallowed_types
+2026.03.09 15:02:21 ERROR - Plugin class 'org.gradle.api.plugins.JavaBasePlugin': execution of task ':app:configureBloopInstall' caused invocation of 'Task.project' in other task at execution time which is unsupported with the configuration cache.
+2026.03.09 15:02:21 ERROR   See https://docs.gradle.org/9.2.0/userguide/configuration_cache_requirements.html#config_cache:requirements:use_project_during_execution
+2026.03.09 15:02:21 ERROR 
+2026.03.09 15:02:21 ERROR See the complete report at file:///C:/Users/dvh/Desktop/Github/ITU/MemoryModelTests/MemTestsJava/build/reports/configuration-cache/53zw76z5rgt5y2atadhl44lz/22h1i3t3exla8yw1yvwmw856d/configuration-cache-report.html
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.cc.impl.problems.ConfigurationCacheProblems.queryFailure(ConfigurationCacheProblems.kt:328)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.cc.impl.problems.ConfigurationCacheProblems.report(ConfigurationCacheProblems.kt:359)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildtree.ProblemReportingBuildActionRunner.reportProblems(ProblemReportingBuildActionRunner.java:66)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildtree.ProblemReportingBuildActionRunner.run(ProblemReportingBuildActionRunner.java:57)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.exec.BuildOutcomeReportingBuildActionRunner.run(BuildOutcomeReportingBuildActionRunner.java:83)
+2026.03.09 15:02:21 ERROR 	at org.gradle.tooling.internal.provider.FileSystemWatchingBuildActionRunner.run(FileSystemWatchingBuildActionRunner.java:135)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.exec.BuildCompletionNotifyingBuildActionRunner.run(BuildCompletionNotifyingBuildActionRunner.java:54)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.exec.RootBuildLifecycleBuildActionExecutor.lambda$execute$0(RootBuildLifecycleBuildActionExecutor.java:56)
+2026.03.09 15:02:21 ERROR 	at org.gradle.composite.internal.DefaultRootBuildState.run(DefaultRootBuildState.java:126)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.exec.RootBuildLifecycleBuildActionExecutor.execute(RootBuildLifecycleBuildActionExecutor.java:56)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildtree.InitDeprecationLoggingActionExecutor.execute(InitDeprecationLoggingActionExecutor.java:62)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildtree.InitProblems.execute(InitProblems.java:36)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildtree.DefaultBuildTreeContext.execute(DefaultBuildTreeContext.java:40)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.exec.BuildTreeLifecycleBuildActionExecutor.lambda$execute$0(BuildTreeLifecycleBuildActionExecutor.java:71)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildtree.BuildTreeState.run(BuildTreeState.java:60)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.exec.BuildTreeLifecycleBuildActionExecutor.execute(BuildTreeLifecycleBuildActionExecutor.java:71)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor$2.call(RunAsBuildOperationBuildActionExecutor.java:65)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor$2.call(RunAsBuildOperationBuildActionExecutor.java:61)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:209)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:204)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:166)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.exec.RunAsBuildOperationBuildActionExecutor.execute(RunAsBuildOperationBuildActionExecutor.java:61)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.exec.RunAsWorkerThreadBuildActionExecutor.lambda$execute$0(RunAsWorkerThreadBuildActionExecutor.java:36)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.work.DefaultWorkerLeaseService.lambda$withLocksAcquired$0(DefaultWorkerLeaseService.java:269)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.work.ResourceLockStatistics$1.measure(ResourceLockStatistics.java:42)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocksAcquired(DefaultWorkerLeaseService.java:267)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.work.DefaultWorkerLeaseService.withLocks(DefaultWorkerLeaseService.java:259)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.work.DefaultWorkerLeaseService.runAsWorkerThread(DefaultWorkerLeaseService.java:127)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.exec.RunAsWorkerThreadBuildActionExecutor.execute(RunAsWorkerThreadBuildActionExecutor.java:36)
+2026.03.09 15:02:21 ERROR 	at org.gradle.tooling.internal.provider.continuous.ContinuousBuildActionExecutor.execute(ContinuousBuildActionExecutor.java:110)
+2026.03.09 15:02:21 ERROR 	at org.gradle.tooling.internal.provider.SubscribableBuildActionExecutor.execute(SubscribableBuildActionExecutor.java:64)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.session.DefaultBuildSessionContext.execute(DefaultBuildSessionContext.java:46)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildprocess.execution.BuildSessionLifecycleBuildActionExecutor$ActionImpl.apply(BuildSessionLifecycleBuildActionExecutor.java:92)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildprocess.execution.BuildSessionLifecycleBuildActionExecutor$ActionImpl.apply(BuildSessionLifecycleBuildActionExecutor.java:80)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.session.BuildSessionState.run(BuildSessionState.java:73)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildprocess.execution.BuildSessionLifecycleBuildActionExecutor.execute(BuildSessionLifecycleBuildActionExecutor.java:62)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildprocess.execution.BuildSessionLifecycleBuildActionExecutor.execute(BuildSessionLifecycleBuildActionExecutor.java:41)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildprocess.execution.StartParamsValidatingActionExecutor.execute(StartParamsValidatingActionExecutor.java:57)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildprocess.execution.StartParamsValidatingActionExecutor.execute(StartParamsValidatingActionExecutor.java:32)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildprocess.execution.SessionFailureReportingActionExecutor.execute(SessionFailureReportingActionExecutor.java:51)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildprocess.execution.SessionFailureReportingActionExecutor.execute(SessionFailureReportingActionExecutor.java:39)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildprocess.execution.SetupLoggingActionExecutor.execute(SetupLoggingActionExecutor.java:47)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.buildprocess.execution.SetupLoggingActionExecutor.execute(SetupLoggingActionExecutor.java:31)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.exec.ExecuteBuild.doBuild(ExecuteBuild.java:70)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.exec.WatchForDisconnection.execute(WatchForDisconnection.java:39)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.exec.ResetDeprecationLogger.execute(ResetDeprecationLogger.java:29)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.exec.RequestStopIfSingleUsedDaemon.execute(RequestStopIfSingleUsedDaemon.java:35)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+2026.03.09 15:02:21 INFO  
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.exec.ForwardClientInput.lambda$execute$0(ForwardClientInput.java:40)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.daemon.clientinput.ClientInputForwarder.forwardInput(ClientInputForwarder.java:80)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.exec.ForwardClientInput.execute(ForwardClientInput.java:37)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+2026.03.09 15:02:21 INFO  Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.exec.LogAndCheckHealth.execute(LogAndCheckHealth.java:64)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+2026.03.09 15:02:21 INFO  
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.exec.LogToClient.doBuild(LogToClient.java:63)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.exec.EstablishBuildEnvironment.doBuild(EstablishBuildEnvironment.java:84)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.exec.BuildCommandOnly.execute(BuildCommandOnly.java:37)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.api.DaemonCommandExecution.proceed(DaemonCommandExecution.java:104)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.exec.StartBuildOrRespondWithBusy$1.run(StartBuildOrRespondWithBusy.java:52)
+2026.03.09 15:02:21 ERROR 	at org.gradle.launcher.daemon.server.DaemonStateCoordinator.lambda$runCommand$0(DaemonStateCoordinator.java:321)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+2026.03.09 15:02:21 ERROR 	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:47)
+2026.03.09 15:02:21 ERROR 
+2026.03.09 15:02:21 ERROR ==============================================================================
+2026.03.09 15:02:21 INFO  You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+2026.03.09 15:02:21 INFO  
+2026.03.09 15:02:21 INFO  For more on this, please refer to https://docs.gradle.org/9.2.0/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+2026.03.09 15:02:21 ERROR 
+2026.03.09 15:02:21 INFO  3 actionable tasks: 3 executed
+2026.03.09 15:02:21 ERROR BUILD FAILED in 1m
+2026.03.09 15:02:21 INFO  Configuration cache entry discarded with 9 problems.
+2026.03.09 15:02:22 INFO  time: ran 'gradle bloopInstall' in 1m2s
+2026.03.09 15:02:22 ERROR Gradle command failed: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\gradlew.bat --stacktrace --console=plain --init-script C:\Users\dvh\AppData\Local\Temp\metals2845765738039986821\init-script.gradle bloopInstall
+2026.03.09 15:02:22 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java
+2026.03.09 15:02:23 INFO  time: code lens generation in 1.02s
+2026.03.09 15:02:23 INFO  time: code lens generation in 1.04s
+2026.03.09 15:02:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+mar. 09, 2026 3:02:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+mar. 09, 2026 3:02:28 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+mar. 09, 2026 3:02:39 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.09 15:03:24 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:03:39 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:04:07 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:04:09 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+mar. 09, 2026 3:04:43 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2026.03.09 15:04:56 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java
+2026.03.09 15:04:56 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:04:56 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:03 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:06 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:09 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:09 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:10 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:10 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:10 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:11 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:11 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+mar. 09, 2026 3:05:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+2026.03.09 15:05:11 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:11 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+mar. 09, 2026 3:05:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 51
+2026.03.09 15:05:11 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:12 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:12 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:12 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:12 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:13 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:13 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:13 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:14 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:14 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:14 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:17 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:17 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:18 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:05:22 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:06:39 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:07:03 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:07:06 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:07:10 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:07:10 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java
+2026.03.09 15:07:10 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:07:10 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java
+2026.03.09 15:07:10 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:07:11 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+mar. 09, 2026 3:07:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 91
+2026.03.09 15:07:29 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:07:31 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:07:34 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:07:34 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:07:46 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:07:46 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:07:48 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:07:51 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:08:07 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:08:22 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:08:22 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:09:56 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:09:56 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:09:56 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java
+2026.03.09 15:09:56 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:09:57 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:09:59 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:10:01 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:10:03 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+mar. 09, 2026 3:10:19 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+mar. 09, 2026 3:10:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 162
+mar. 09, 2026 3:10:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 164
+mar. 09, 2026 3:10:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 165
+2026.03.09 15:11:14 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:16 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:19 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:11:19 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:19 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:19 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java
+2026.03.09 15:11:19 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:11:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:11:19 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:11:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:11:21 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:11:21 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:11:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:11:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:11:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:11:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:11:26 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java
+2026.03.09 15:11:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:11:26 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java
+2026.03.09 15:11:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:27 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:30 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:32 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:33 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:33 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:34 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:35 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:35 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:37 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:11:51 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java
+2026.03.09 15:11:51 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:11:51 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:11:51 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:03 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:04 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java
+2026.03.09 15:12:03 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:12:04 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:12:04 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:12:04 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:12:09 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:09 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java
+2026.03.09 15:12:09 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:09 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:09 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:11 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:13 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:13 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+mar. 09, 2026 3:12:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 278
+2026.03.09 15:12:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+mar. 09, 2026 3:12:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 291
+mar. 09, 2026 3:12:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 292
+2026.03.09 15:12:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+mar. 09, 2026 3:12:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 296
+mar. 09, 2026 3:12:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 297
+mar. 09, 2026 3:12:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 295
+2026.03.09 15:12:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:25 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+mar. 09, 2026 3:12:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 307
+2026.03.09 15:12:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:27 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:27 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:27 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:27 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:27 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:29 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:29 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:29 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:29 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:31 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:32 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:32 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:32 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:32 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:32 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:32 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:33 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:33 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:33 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:33 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+mar. 09, 2026 3:12:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 341
+2026.03.09 15:12:34 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:34 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:34 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:34 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:36 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:36 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:36 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:37 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:38 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:37 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:37 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:39 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:39 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:39 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:40 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:40 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:40 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:40 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:40 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:40 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:42 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:42 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:42 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:43 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:43 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:44 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:45 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:45 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:46 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:50 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:50 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:50 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:51 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:51 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:52 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:53 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:53 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:55 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:56 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:58 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:59 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:12:59 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:13:00 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:13:02 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:13:03 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:13:03 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:13:03 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:13:03 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:13:04 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java
+2026.03.09 15:13:04 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:13:06 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java
+2026.03.09 15:13:06 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:06 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:13:06 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:06 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:10 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:10 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java
+2026.03.09 15:13:10 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:13:10 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:14 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:15 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:15 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:17 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:17 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:18 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:19 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+mar. 09, 2026 3:13:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: Index 0 out of bounds for length 0
+java.lang.StringIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:55)
+	at java.base/jdk.internal.util.Preconditions$1.apply(Preconditions.java:52)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:213)
+	at java.base/jdk.internal.util.Preconditions$4.apply(Preconditions.java:210)
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:98)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+	at java.base/java.lang.String.checkIndex(String.java:4930)
+	at java.base/java.lang.StringLatin1.charAt(StringLatin1.java:46)
+	at java.base/java.lang.String.charAt(String.java:1629)
+	at scala.meta.internal.metals.Fuzzy.matchesName(Fuzzy.scala:292)
+	at scala.meta.internal.metals.Fuzzy.$anonfun$matches$2(Fuzzy.scala:75)
+	at scala.meta.internal.metals.Fuzzy.$anonfun$matches$2$adapted(Fuzzy.scala:75)
+	at scala.meta.internal.metals.Fuzzy.loopDelimiters$1(Fuzzy.scala:99)
+	at scala.meta.internal.metals.Fuzzy.genericMatches(Fuzzy.scala:122)
+	at scala.meta.internal.metals.Fuzzy.matches(Fuzzy.scala:76)
+	at scala.meta.internal.pc.JavaCompletionProvider.$anonfun$completeFromScope$3(JavaCompletionProvider.scala:146)
+	at scala.meta.internal.pc.JavaCompletionProvider.$anonfun$completeFromScope$3$adapted(JavaCompletionProvider.scala:146)
+	at scala.collection.immutable.List.filter(List.scala:549)
+	at scala.meta.internal.pc.JavaCompletionProvider.completeFromScope(JavaCompletionProvider.scala:146)
+	at scala.meta.internal.pc.JavaCompletionProvider.completeIdentifier(JavaCompletionProvider.scala:131)
+	at scala.meta.internal.pc.JavaCompletionProvider.completions(JavaCompletionProvider.scala:65)
+	at scala.meta.internal.pc.JavaPresentationCompiler.complete(JavaPresentationCompiler.scala:59)
+	at scala.meta.internal.metals.Compilers.$anonfun$completions$1(Compilers.scala:710)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$4(Compilers.scala:1446)
+	at scala.Option.map(Option.scala:242)
+	at scala.meta.internal.metals.Compilers.$anonfun$withPCAndAdjustLsp$3(Compilers.scala:1446)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.metals.Compilers.withPCAndAdjustLsp(Compilers.scala:1438)
+	at scala.meta.internal.metals.Compilers.completions(Compilers.scala:705)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$completion$1(MetalsLspService.scala:1189)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLspService.completion(MetalsLspService.scala:1189)
+	at scala.meta.internal.metals.WorkspaceLspService.completion(WorkspaceLspService.scala:609)
+	at scala.meta.metals.lsp.DelegatingScalaService.completion(DelegatingScalaService.scala:145)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:128)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:271)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:201)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+2026.03.09 15:13:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:21 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:20 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:22 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:22 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:22 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:23 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:13:26 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:16:52 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:17:52 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:17:55 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:17:55 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:17:55 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 15:17:55 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java
+2026.03.09 15:17:55 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 15:17:55 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 16:30:14 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java
+2026.03.09 16:30:14 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 16:30:14 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 16:32:07 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java
+2026.03.09 16:32:07 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 16:32:07 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 16:41:28 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java
+2026.03.09 16:41:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 16:41:28 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 16:43:13 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 16:54:53 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java
+2026.03.09 16:54:53 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.
+2026.03.09 16:54:53 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.09 16:57:06 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java. Using fallback presentation compiler.
+2026.03.10 13:35:59 WARN  no build target for: C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\HowToClassTypedInitializer.java
+2026.03.10 13:35:59 INFO  no build target found for C:\Users\dvh\Desktop\Github\ITU\MemoryModelTests\MemTestsJava\app\src\main\java\memtestsjava\App.java. Using fallback presentation compiler.

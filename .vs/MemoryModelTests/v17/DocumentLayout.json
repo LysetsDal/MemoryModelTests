@@ -3,16 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|c:\\users\\dvh\\desktop\\github\\itu\\memorymodeltests\\memorymodeltests\\dvhtest\\readonlypropexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|solutionrelative:memorymodeltests\\dvhtest\\readonlypropexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|c:\\users\\dvh\\desktop\\github\\itu\\memorymodeltests\\memorymodeltests\\dvhtest\\howtoclasstypedinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|solutionrelative:memorymodeltests\\dvhtest\\howtoclasstypedinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|c:\\users\\dvh\\desktop\\github\\itu\\memorymodeltests\\memorymodeltests\\dvhtest\\ctorexec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|solutionrelative:memorymodeltests\\dvhtest\\ctorexec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|c:\\users\\dvh\\desktop\\github\\itu\\memorymodeltests\\memorymodeltests\\dvhtest\\accessmodifierexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|solutionrelative:memorymodeltests\\dvhtest\\accessmodifierexamples.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|c:\\users\\dvh\\desktop\\github\\itu\\memorymodeltests\\memorymodeltests\\dvhtest\\refvsnonref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|solutionrelative:memorymodeltests\\dvhtest\\refvsnonref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|c:\\users\\dvh\\desktop\\github\\itu\\memorymodeltests\\memorymodeltests\\dvhtest\\personinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|solutionrelative:memorymodeltests\\dvhtest\\personinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|c:\\users\\dvh\\desktop\\github\\itu\\memorymodeltests\\memorymodeltests\\dvhtest\\finalstuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|solutionrelative:memorymodeltests\\dvhtest\\finalstuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|c:\\users\\dvh\\desktop\\github\\itu\\memorymodeltests\\memorymodeltests\\dvhtest\\semantics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|solutionrelative:memorymodeltests\\dvhtest\\semantics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|c:\\users\\dvh\\desktop\\github\\itu\\memorymodeltests\\memorymodeltests\\volatiles\\storebuffertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|solutionrelative:memorymodeltests\\volatiles\\storebuffertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|c:\\users\\dvh\\desktop\\github\\itu\\memorymodeltests\\memorymodeltests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|solutionrelative:memorymodeltests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|c:\\users\\dvh\\desktop\\github\\itu\\memorymodeltests\\memorymodeltests\\dvhtest\\ctortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B78F363E-C89A-42F3-A33F-5FF52FB1374A}|MemoryModelTests\\MemoryModelTests.csproj|solutionrelative:memorymodeltests\\dvhtest\\ctortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 314,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,41 +70,129 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "semantics.cs",
-              "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\semantics.cs",
-              "RelativeDocumentMoniker": "MemoryModelTests\\dvhTest\\semantics.cs",
-              "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\semantics.cs",
-              "RelativeToolTip": "MemoryModelTests\\dvhTest\\semantics.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "AccessModifierExamples.cs",
+              "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\AccessModifierExamples.cs",
+              "RelativeDocumentMoniker": "MemoryModelTests\\dvhTest\\AccessModifierExamples.cs",
+              "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\AccessModifierExamples.cs",
+              "RelativeToolTip": "MemoryModelTests\\dvhTest\\AccessModifierExamples.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAqwPkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:09:27.42Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StoreBufferTest.cs",
-              "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\Volatiles\\StoreBufferTest.cs",
-              "RelativeDocumentMoniker": "MemoryModelTests\\Volatiles\\StoreBufferTest.cs",
-              "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\Volatiles\\StoreBufferTest.cs",
-              "RelativeToolTip": "MemoryModelTests\\Volatiles\\StoreBufferTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:10:58.849Z",
+              "WhenOpened": "2026-03-12T12:20:18.153Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CtorExec.cs",
+              "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\CtorExec.cs",
+              "RelativeDocumentMoniker": "MemoryModelTests\\dvhTest\\CtorExec.cs",
+              "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\CtorExec.cs",
+              "RelativeToolTip": "MemoryModelTests\\dvhTest\\CtorExec.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwC0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T12:16:50.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "refVsNonRef.cs",
+              "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\refVsNonRef.cs",
+              "RelativeDocumentMoniker": "MemoryModelTests\\dvhTest\\refVsNonRef.cs",
+              "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\refVsNonRef.cs",
+              "RelativeToolTip": "MemoryModelTests\\dvhTest\\refVsNonRef.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAArwHoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:15:07.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReadOnlyPropExample.cs",
+              "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\ReadOnlyPropExample.cs",
+              "RelativeDocumentMoniker": "MemoryModelTests\\dvhTest\\ReadOnlyPropExample.cs",
+              "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\ReadOnlyPropExample.cs",
+              "RelativeToolTip": "MemoryModelTests\\dvhTest\\ReadOnlyPropExample.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T14:24:56.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ctorTest.cs",
+              "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\ctorTest.cs",
+              "RelativeDocumentMoniker": "MemoryModelTests\\dvhTest\\ctorTest.cs",
+              "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\ctorTest.cs",
+              "RelativeToolTip": "MemoryModelTests\\dvhTest\\ctorTest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:24:37.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "personInit.cs",
+              "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\personInit.cs",
+              "RelativeDocumentMoniker": "MemoryModelTests\\dvhTest\\personInit.cs",
+              "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\personInit.cs",
+              "RelativeToolTip": "MemoryModelTests\\dvhTest\\personInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:21:07.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HowToClassTypedInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\HowToClassTypedInitializer.cs",
+              "RelativeDocumentMoniker": "MemoryModelTests\\dvhTest\\HowToClassTypedInitializer.cs",
+              "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\HowToClassTypedInitializer.cs",
+              "RelativeToolTip": "MemoryModelTests\\dvhTest\\HowToClassTypedInitializer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T13:20:22.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\Program.cs",
               "RelativeDocumentMoniker": "MemoryModelTests\\Program.cs",
               "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\Program.cs",
               "RelativeToolTip": "MemoryModelTests\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T10:10:55.505Z",
+              "WhenOpened": "2026-02-25T11:00:40.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "finalstuff.cs",
+              "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\finalstuff.cs",
+              "RelativeDocumentMoniker": "MemoryModelTests\\dvhTest\\finalstuff.cs",
+              "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\finalstuff.cs",
+              "RelativeToolTip": "MemoryModelTests\\dvhTest\\finalstuff.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwBUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:40:32.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "semantics.cs",
+              "DocumentMoniker": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\semantics.cs",
+              "RelativeDocumentMoniker": "MemoryModelTests\\dvhTest\\semantics.cs",
+              "ToolTip": "C:\\Users\\dvh\\Desktop\\Github\\ITU\\MemoryModelTests\\MemoryModelTests\\dvhTest\\semantics.cs",
+              "RelativeToolTip": "MemoryModelTests\\dvhTest\\semantics.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T10:36:17.276Z",
               "EditorCaption": ""
             }
           ]
